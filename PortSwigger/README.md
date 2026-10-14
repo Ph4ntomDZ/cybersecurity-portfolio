@@ -1,28 +1,32 @@
-# Cybersecurity Portfolio
+# PortSwigger Web Security Academy
 
-Computer Science Student | Cybersecurity & CTF Enthusiast
+This directory contains my practical web application security lab writeups.
 
-## About Me
-I am a Computer Science student from Algeria developing my knowledge and practical skills in cybersecurity, networking, and information security.
+## Topics Studied
 
-## Areas of Interest
-- Computer Networking
-- Web Application Security
-- Capture The Flag (CTF)
-- Linux and Windows
-- Vulnerability Analysis
-- Security Fundamentals
+Topics will be added as I study and complete the corresponding labs.
 
-## Learning Platforms
-- **Cisco Networking Academy:** Networking courses and fundamentals
-- **TryHackMe:** Hands-on cybersecurity learning
-- **Hack The Box:** Practical security labs and challenges
-- **PortSwigger Web Security Academy:** Web application security labs
+- SQL Injection
+- Cross-Site Scripting (XSS)
+- Authentication
+- Access Control
+- Path Traversal
+- Server-Side Request Forgery (SSRF)
 
-## Portfolio Contents
-This repository will contain my personal notes, completed lab writeups, networking exercises, and CTF challenge reports.
+## Lab Writeups
 
-## Objective
-To build strong practical cybersecurity skills through continuous learning, hands-on practice, and responsible security research.
+Each completed lab report may include:
 
-*Only completed activities and verified achievements will be documented here.*
+- **Lab Name:** Name of the lab
+- **Objective:** What the lab requires
+- **Vulnerability:** The vulnerability being investigated
+- **Methodology:** Steps taken to analyze and solve the lab
+- **Root Cause:** Why the vulnerability exists
+- **Mitigation:** How the vulnerability can be prevented
+- **Key Takeaways:** What I learned
+
+## Progress
+
+Completed labs will be documented in individual Markdown files in this directory.
+
+*Only completed labs and verified findings will be reported as achievements.*
