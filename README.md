@@ -28,12 +28,9 @@ I use this repository to document my learning journey, hands-on labs, technical 
 
 - **PortSwigger:** Web security lab writeups
 - **Networking:** Networking exercises and technical notes
-- **TryHackMe:** Completed room writeups
-- **HackTheBox:** Completed machine and challenge writeups
+- **TryHackMe
 - **CTF:** Challenge writeups and lessons learned
 
 ## Objective
 
 To develop strong practical cybersecurity skills through continuous learning, hands-on practice, and responsible security research.
-
-*Only completed activities and verified achievements will be documented in this repository.*
